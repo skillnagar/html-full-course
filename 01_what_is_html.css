@@ -1,0 +1,14 @@
+/* css, this is style of a web page */
+body {
+    background: grey;
+}
+h1 {
+    color: green;
+    background: white;
+    border: 2px solid red;
+}
+p {
+    color: white;
+    background: black;
+    border: 2px solid yellow;
+}
