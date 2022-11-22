@@ -8,10 +8,12 @@ This course is not targeted to certain group of people, if you like to learn web
 - professionals
 - hobbyist
 
-## Tools we will use
+## Tools we will use, all tools are FREE to use :)
 - [VS Code](https://code.visualstudio.com/download)
 - [Brave Browser](https://brave.com/en-in/download/)
 - [VS Code Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Git - Version Control (optional)](https://git-scm.com/downloads)
+- [GitHub Desktop (optional)](https://desktop.github.com/)
 
 ## Watch the full playlist
 You can watch the full video playlist on [Skillnagar YouTube Channel](https://youtube.com/@skillnagar)
